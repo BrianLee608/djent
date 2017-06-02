@@ -420,6 +420,15 @@ const defaultInstruments = [
                 {
                     pitch: [ kickMidiNote ],
                 },
+            ),
+            getSound(
+                'd',
+                'Drop',
+                'assets/audio/trap/FX6.wav',
+                'Tweet',
+                {
+                    pitch: [ kickMidiNote ],
+                },
             )
         ],
     ),
